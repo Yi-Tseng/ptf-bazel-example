@@ -1,17 +1,4 @@
-#!/usr/bin/env python2
-
-import Queue
-import argparse
-import json
-import logging
-import os
-import re
-import struct
-import subprocess
-import sys
-import threading
-import time
-from collections import OrderedDict
+#!/usr/bin/env python3
 
 import google.protobuf.text_format
 import grpc
