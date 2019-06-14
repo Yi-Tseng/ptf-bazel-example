@@ -1,4 +1,4 @@
-workspace(name = "com_github_yi_tseng_p4r_bazel")
+workspace(name = "com_github_yi_tseng_ptf_bazel_exmaple")
 load("@bazel_tools//tools/build_defs/repo:git.bzl", "git_repository")
 
 git_repository(
